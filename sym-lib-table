@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "electrical-system-overview23")(type "KiCad")(uri "${KIPRJMOD}/electrical-system-overview23.kicad_sym")(options "")(descr ""))
+)

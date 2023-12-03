@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "electrical-system-overview23")(type "KiCad")(uri "${KIPRJMOD}/electrical-system-overview23.kicad_sym")(options "")(descr ""))
+  (lib (name "Shell_Data_Telemetry")(type "KiCad")(uri "${KIPRJMOD}/Shell_Data_Telemetry.kicad_sym")(options "")(descr ""))
 )
